@@ -1,4 +1,3 @@
-import React from "react";
 import { RxCross1 } from "react-icons/rx";
 import type { ITechnologies } from "../../types/types";
 

@@ -1,4 +1,3 @@
-import React from "react";
 import develpment from "../../assets/banner-stack.png";
 
 const DevelopmentSTack = () => {

@@ -1,4 +1,3 @@
-import React from "react";
 import navLogo from "../../assets/logo-text.png";
 import { HiMenu } from "react-icons/hi";
 
